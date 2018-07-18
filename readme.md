@@ -1,7 +1,7 @@
 # Conociendo un tema de Wordpress
 
 ### INSTRUCCIONES:- Para poder realizar este actividad debes haber realizado los cursos previo.
-- Realiza tu trabajo y súbelos a tu repositorio de Github. En este caso es necesario que subas la carpeta `wp-content` y [base de datos con extensión`.sql`](https://cl.godaddy.com/help/exportar-mis-bases-de-datos-mysql-1487).
+- Realiza tu trabajo y súbelos a tu repositorio de Github. En este caso es necesario que subas la carpeta wp-content y [base de datos con extensión .sql](https://cl.godaddy.com/help/exportar-mis-bases-de-datos-mysql-1487).
 - Luego de pusheados los últimos cambios, sube el link de Github en el desafío de la sección correspondiente en la plataforma.***
 ### DESCRIPCIÓN DE ACTIVIDAD
 
